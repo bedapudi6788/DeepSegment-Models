@@ -1,1 +1,2 @@
 deepsegment_eng_v1.zip filter=lfs diff=lfs merge=lfs -text
+deepsegment_eng_fra_ita_v1.zip filter=lfs diff=lfs merge=lfs -text
